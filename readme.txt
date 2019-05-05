@@ -2,7 +2,7 @@
 Contributors: solitweb
 Tags: elementor, pagebuilder, wpml, language switcher, translate, menu
 Requires at least: 4.9
-Tested up to: 5.0
+Tested up to: 5.2
 Stable tag: 1.0.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
